@@ -1,6 +1,6 @@
 # ANDROID-STUDIO
-Nama  : Moh Saputra Pangestu\n
-Nim   : 311810428\n
+Nama  : Moh Saputra Pangestu
+Nim   : 311810428
 Kelas : Ti.18.D1
 
 Membuat android dengan adroid-studio
