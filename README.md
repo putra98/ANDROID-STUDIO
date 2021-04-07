@@ -8,12 +8,12 @@ Nim   : 311810428
 
 Kelas : Ti.18.D1
 
-# Membuat aplikasi lempar koin 
+# 1.Membuat aplikasi lempar koin 
 ```
 LemparCoin.zip
 ```
 
-# Membuat FragmentApp Sesi 1
+# 2.Membuat FragmentApp SESI 1
 ```
 FragmentApp.zip
 ```
