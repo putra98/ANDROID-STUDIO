@@ -1,7 +1,6 @@
+# ANDROID-STUDIO
 ![OIP](https://user-images.githubusercontent.com/53217950/113902735-1fefe180-97c8-11eb-8ed6-5ac47cc755b6.jpg)
 
-
-# ANDROID-STUDIO
 Nama  : Moh Saputra Pangestu
 
 Nim   : 311810428
