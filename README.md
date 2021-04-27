@@ -21,3 +21,8 @@ FragmentApp.zip
 ```
 FragmentApp2.rar
 ```
+
+# 3. Membuat 4 FragmentApp + 4 Intent UTS
+```
+saputra_fragment.rar
+```
