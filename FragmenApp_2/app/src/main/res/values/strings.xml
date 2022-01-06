@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmenApps</string>
+    <string name="action_setting">settings</string>
+
+    <string name="hello_blank_fragment">Hello Blank</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="pencet_tombol">Tekan Tombolnya !</string>
+    <string name="tampil_tombol">Tampilkan Tombol</string>
+    <string name="disini_tampil">Di simimemiliki detailnya</string>
+
+</resources>
