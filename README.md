@@ -15,14 +15,14 @@ LemparCoin.zip
 
 # 2. Membuat FragmentApp SESI 1
 ```
-FragmentApp.zip
+FragmentApp
 ```
 # 3. Membuat FragmentApp SESI 2
 ```
-FragmentApp2.rar
+FragmentApp2
 ```
 
 # 3. Membuat 4 FragmentApp + 4 Intent UTS
 ```
-saputra_fragment.rar
+saputra_fragment.zip
 ```
